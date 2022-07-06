@@ -1,6 +1,5 @@
 package com.example.userservice.service;
 
-import com.example.userservice.dto.LoginDto;
 import com.example.userservice.dto.RegiDto;
 import com.example.userservice.repository.UserRepository;
 import lombok.extern.slf4j.Slf4j;

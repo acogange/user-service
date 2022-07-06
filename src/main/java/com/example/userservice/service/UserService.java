@@ -1,9 +1,7 @@
 package com.example.userservice.service;
 
 
-import com.example.userservice.dto.LoginDto;
 import com.example.userservice.dto.RegiDto;
-import org.springframework.stereotype.Service;
 
 import java.util.Map;
 
